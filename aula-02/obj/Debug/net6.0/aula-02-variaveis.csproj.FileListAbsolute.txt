@@ -1,0 +1,15 @@
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\bin\Debug\net6.0\aula-02-variaveis.exe
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\bin\Debug\net6.0\aula-02-variaveis.deps.json
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\bin\Debug\net6.0\aula-02-variaveis.runtimeconfig.json
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\bin\Debug\net6.0\aula-02-variaveis.dll
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\bin\Debug\net6.0\aula-02-variaveis.pdb
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.csproj.AssemblyReference.cache
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.AssemblyInfoInputs.cache
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.AssemblyInfo.cs
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.dll
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\refint\aula-02-variaveis.dll
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.pdb
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\aula-02-variaveis.genruntimeconfig.cache
+C:\Users\Mário Lucas\Desktop\curso-c#-fundamento\aula-02-variaveis\obj\Debug\net6.0\ref\aula-02-variaveis.dll
